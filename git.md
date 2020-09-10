@@ -1,4 +1,4 @@
-## squashen
+## Squash several commits into a single one and rebase on master
 
 ```
 git checkout master
