@@ -20,7 +20,7 @@ git add ...
 git commit --amend
 ```
 
-## Compare two branches
+## Compare two branches just by filenames
 ```
 git diff --name-status master..feature/username/ticketnumber
 ```
