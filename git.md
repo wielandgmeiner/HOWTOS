@@ -13,6 +13,7 @@ git add ...
 git commit
 git push --force
 ```
+However, squashing commits for a nice history is a bad idea because you can't do binary search anymore. Small commits have value.
 
 ## Add changes to the last commit (can save the squashing)
 ```
